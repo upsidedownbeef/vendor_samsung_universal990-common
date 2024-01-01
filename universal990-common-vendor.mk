@@ -159,7 +159,6 @@ PRODUCT_PACKAGES += \
     gatekeeper.exynos990 \
     gps.default \
     vendor.samsung.hardware.gnss@2.1-impl \
-    libGrallocMapperCamera \
     libSEF.quram \
     libbauthserver \
     libbauthtzcommon \
